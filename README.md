@@ -1,6 +1,6 @@
-#Welcome to My GitHub Profile! 👋
+Welcome to My GitHub Profile! 👋
 
-##About Me
+About Me
 👨‍💻 I'm a 3rd-year Computer Engineering student pursuing my B.Tech degree.
 🌐 Exploring the vast world of technology and software development.
 
@@ -22,6 +22,4 @@ How to Reach Me
 📫 You can reach me via shahdhriti0411@gmail.com.
 💼 LinkedIn: www.linkedin.com/in/shahdhriti
 
-Fun Fact
-⚡ Fun Fact: [Share an Interesting Fun Fact about Yourself]
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat! 🚀
