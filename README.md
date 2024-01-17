@@ -11,9 +11,9 @@
 ## Skills
 
 - **Programming Languages:**
-Python, C, C++, Java, HTML, CSS, JS, PHP, Flutter.
+Python, C, C++, Java, HTML, CSS, JS, PHP, Flutter, Dart, Node.js.
 - **Tools & Technologies:**
-XML, Android Studio, Git.
+XML, Android Studio, Git, Express.js.
 - **Database:**
 MySQL.
 
