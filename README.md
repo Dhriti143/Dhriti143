@@ -6,17 +6,18 @@
 
 ## Interests
 - 👀 I'm passionate about coding, problem-solving, and building cool stuff.
-- 🚀 Exploring the intricacies of both frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, and databases like MongoDB. 
+- 🚀 Exploring the intricacies of both frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, and databases like MongoDB.
 
-## Current Learning Journey
-- 🌱Currently diving deep into Full Stack Web Development to enhance my skills. 
-- 📚 Always hungry for knowledge and staying updated with the latest industry trends.
+## Skills
 
-## Collaboration Opportunities
-- 💞️ Open to collaborating on interesting projects, especially those related to Full Stack Web Development. 
-Whether it's creating responsive and engaging user interfaces with HTML, CSS, and JavaScript, or diving into server-side development with Node.js and MongoDB, I'm eager to contribute my skills. 
-If you have a project that involves the entire web development stack, count me in! Let's work together to bring innovative ideas to life. 🌐👨‍💻
-- 🤝 Let's connect and create something awesome together!
+**Programming Languages:**
+Python, C, C++, Java, HTML, CSS, JS, PHP, Flutter.
+**Tools & Technologies:**
+XML, Android Studio, Git.
+**Database:**
+MySQL.
+**Other Skills:**
+Communication, Problem Solving, Team Collaboration, Time Management, Adaptability.
 
 ## How to Reach Me
 - 📫 You can reach me via shahdhriti0411@gmail.com.
