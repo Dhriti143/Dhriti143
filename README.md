@@ -10,14 +10,12 @@
 
 ## Skills
 
-**Programming Languages:**
+- **Programming Languages:**
 Python, C, C++, Java, HTML, CSS, JS, PHP, Flutter.
-**Tools & Technologies:**
+- **Tools & Technologies:**
 XML, Android Studio, Git.
-**Database:**
+- **Database:**
 MySQL.
-**Other Skills:**
-Communication, Problem Solving, Team Collaboration, Time Management, Adaptability.
 
 ## How to Reach Me
 - 📫 You can reach me via shahdhriti0411@gmail.com.
