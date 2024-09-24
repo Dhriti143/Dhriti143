@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 👨‍💻 I'm a 3rd-year Computer Engineering student pursuing my B.Tech degree.
+- 👨‍💻 I'm a final-year Computer Engineering student pursuing my B.Tech degree.
 - 🌐 Exploring the vast world of technology and software development.
 
 ## Interests
